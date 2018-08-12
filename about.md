@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am an Android Developer.
+I am an Android and Frontend Developer.
 
 ### Language Skill
+* JS
 * Java
 * Python
-* C++
 * Kotlin
-* js
+* C++
 
 Happy coding.
 
